@@ -1,0 +1,12 @@
+C:\Users\Eduardo\Documents\Programação\Youtube\zatecSistemas\AppEscola\bin\Release\AppEscola.exe.config
+C:\Users\Eduardo\Documents\Programação\Youtube\zatecSistemas\AppEscola\bin\Release\AppEscola.exe
+C:\Users\Eduardo\Documents\Programação\Youtube\zatecSistemas\AppEscola\bin\Release\AppEscola.pdb
+C:\Users\Eduardo\Documents\Programação\Youtube\zatecSistemas\AppEscola\obj\Release\AppEscola.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Documents\Programação\Youtube\zatecSistemas\AppEscola\obj\Release\AppEscola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\Documents\Programação\Youtube\zatecSistemas\AppEscola\obj\Release\AppEscola.FormPrincipal.resources
+C:\Users\Eduardo\Documents\Programação\Youtube\zatecSistemas\AppEscola\obj\Release\AppEscola.FormLogin.resources
+C:\Users\Eduardo\Documents\Programação\Youtube\zatecSistemas\AppEscola\obj\Release\AppEscola.Properties.Resources.resources
+C:\Users\Eduardo\Documents\Programação\Youtube\zatecSistemas\AppEscola\obj\Release\AppEscola.csproj.GenerateResource.cache
+C:\Users\Eduardo\Documents\Programação\Youtube\zatecSistemas\AppEscola\obj\Release\AppEscola.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\Programação\Youtube\zatecSistemas\AppEscola\obj\Release\AppEscola.exe
+C:\Users\Eduardo\Documents\Programação\Youtube\zatecSistemas\AppEscola\obj\Release\AppEscola.pdb
